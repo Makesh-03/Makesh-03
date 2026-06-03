@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/630b76fa-1bb0-4ad8-9822-889cc23b15f2" />
+<img alt="image" src="https://github.com/user-attachments/assets/630b76fa-1bb0-4ad8-9822-889cc23b15f2" />
 
 # Hi, I'm Makesh Karthik
 
